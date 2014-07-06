@@ -15,8 +15,8 @@
 <script type="text/javascript" src="link href='http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700|Roboto+Slab:500,700|Roboto+Condensed:400italic,400,300,700' rel='stylesheet' type='text/css'"></script>
 <!--<link href="http://fonts.googleapis.com/css?family=Roboto:400,300,400italic,500,700|Roboto+Slab:400,500,700|Roboto+Condensed:400italic,400,300,700" rel="stylesheet" type="text/css">-->
 
-<!-- Bootstrap core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap core CSS 
+<link href="css/bootstrap.min.css" rel="stylesheet">-->
 
 <!-- Add custom CSS here-->
 
@@ -418,10 +418,12 @@ Call today (702) 771-1771 to discuss how we can add beauty to your home, busines
   <!-- /.container --> 
 </footer>
 <!-- JavaScript 
-    <script src="js/jquery-1.10.2.js"></script>--> 
-<script src="js/bootstrap.js"></script> 
-<!--<script type='text/javascript' src='http//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js'></script> --> 
+    <script src="js/jquery-1.10.2.js"></script>-->
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<!--<script src="js/bootstrap.js"></script>
+<script type='text/javascript' src='http//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js'></script> --> 
 <script src="js/modern-business.js"></script> 
-<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+<!--LIVE RELOAD
+<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>-->
 </body>
 </html>
